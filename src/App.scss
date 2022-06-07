@@ -1,0 +1,43 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  padding: 20px;
+
+  h1 {
+    cursor: pointer;
+  }
+
+  .app__search {
+    background: white;
+    width: 500px;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+
+    input {
+      height: 30px;
+      flex: 3;
+      outline-style: none;
+      border: none;
+      border-bottom: 1px solid black;
+      font-size: 1rem;
+      margin-right: 10px;
+    }
+  }
+
+  p {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .app__post {
+    width: 525px;
+  }
+}
