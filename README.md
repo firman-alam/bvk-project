@@ -1,6 +1,6 @@
 # Getting Started with Infinite Scroll React App
 
-This project is Infinite Scroll w/ using The Cat API [docs](http://"https://docs.thecatapi.com/")
+This project is Infinite Scroll w/ using The Cat API [docs](https://docs.thecatapi.com/)
 
 ## Library
 
